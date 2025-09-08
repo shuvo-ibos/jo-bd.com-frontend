@@ -146,8 +146,8 @@ export default function Policy() {
         <h4>Contact Us</h4>
         <p>If you have any questions about this Privacy Policy, You can contact us:</p>
         <ul>
-          <li>By email: <a href="mailto:storyofjo2020@gmail.com">storyofjo2020@gmail.com</a></li>
-          <li>By phone number: 01613-634246</li>
+          <li>Mail: <a href="mailto:storyofjo2020@gmail.com">storyofjo2020@gmail.com</a></li>
+          <li>Phone number: 01613-634246</li>
         </ul>
       </div>
       `;

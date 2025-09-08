@@ -134,6 +134,18 @@
     width: 100%;
   }
 
+  .introText ul {
+    padding-left: 1.5rem; /* Increase left padding for bullets */
+    margin-bottom: 1.5rem;
+  }
+
+  .introText li {
+    margin-left: 0.25rem; /* Slight indent for text after bullet */
+    margin-bottom: 0.75rem;
+    line-height: 1.7;
+    word-break: break-word;
+  }
+
 
   /* Additional responsive adjustments */
   @media (max-width: 640px) {
@@ -147,5 +159,14 @@
 
     .accordionTitle {
       font-size: 1rem;
+    }
+
+    .introText ul {
+      padding-left: 1rem;
+    }
+
+    .introText li {
+      margin-left: 0.15rem;
+      font-size: 0.95rem;
     }
   }
